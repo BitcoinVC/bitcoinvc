@@ -1,1 +1,12 @@
+title: Bitcoin Venture Currency
+author: Jason Coombs
+email: jcoombs@risknerd.com
+description: > # this means to ignore newlines until next config entry
+  Bitcoin Venture Currency (₿VC) blockchain C++ (a fork of libbitcoin) use cashtag $BVC or $₿VC
+# social links
+twitter_username: VentureCurrency
+github_username:  JasonCoombs
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-hacker
