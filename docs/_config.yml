@@ -9,4 +9,7 @@ github_username:  JasonCoombs
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+hacker:
+  date_format: "%B %-d, %Y"
+
 theme: jekyll-theme-hacker
